@@ -1,9 +1,6 @@
 # code your #position_taken? method here!
 def position_taken? (board,index)
-  if [index] == " "
-  elsif [index] == "" || " " || nil
-
-
+  if [index] == "" || " " || nil
   end
 
 end
