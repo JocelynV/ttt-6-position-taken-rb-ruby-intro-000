@@ -1,7 +1,7 @@
 # code your #position_taken? method here!
 def position_taken? (board,index)
   if index == "" || " " || nil
-    puts [index_number]
+    puts token
 
   end
 
